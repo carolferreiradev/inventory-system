@@ -13,9 +13,10 @@ The Inventory System offers the following key features:
 
 ## Screen
 
-![]()
-![]()
-![]()
+![home](https://github.com/carolferreiradev/inventory-system/blob/main/docs/home.png)
+![products](https://github.com/carolferreiradev/inventory-system/blob/main/docs/products-delete.png)
+![form](https://github.com/carolferreiradev/inventory-system/blob/main/docs/product-create.png)
+![inventory](https://github.com/carolferreiradev/inventory-system/blob/main/docs/inventory.png)
 
 ## Prerequisites
 
@@ -29,7 +30,7 @@ Make sure you have the following installed on your system:
 1. Clone the project repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/carolferreiradev/inventory-system
 cd inventory-system
 ```
 
